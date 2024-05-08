@@ -1,0 +1,17 @@
+{
+  "name": "devburguer-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Diego Felipe Alves Pereira",
+    "url": "https://github.com/diegofelipeap"
+  },
+  "license": "ISC",
+  "description": "DevBurguer API.",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
